@@ -18,5 +18,9 @@ I Love IPA [Demo](https://wonderful-lamarr-3ee816.netlify.app/) | [Front end Rep
 ***
 [LinkedIn](https://www.linkedin.com/in/richard-kurwitz/)
 
+### Skills
+***
+[image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) [image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
 
 
