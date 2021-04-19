@@ -14,4 +14,9 @@ I Love IPA [Demo](https://wonderful-lamarr-3ee816.netlify.app/) | [Front end Rep
 
 🍺   An IPA app that allows a user to review and find different IPA’s from breweries around the country.
 
+### Get In Touch 📬
+***
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 
