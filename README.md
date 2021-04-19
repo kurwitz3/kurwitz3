@@ -4,4 +4,4 @@ I'm a FlatIron School Graduate who has experience in Ruby on Rails and JavScript
 
 ### Projects
 
-American Outfitters [Demo](https://loving-shaw-2b2b97.netlify.app/)
+American Outfitters [Demo](https://loving-shaw-2b2b97.netlify.app/) | [Frontend Repo](https://github.com/kurwitz3/outfitter-frontend)
