@@ -6,10 +6,10 @@ I'm a FlatIron School Graduate who has experience in Ruby on Rails and JavScript
 
 American Outfitters [Demo](https://loving-shaw-2b2b97.netlify.app/) | [Front end Repo](https://github.com/kurwitz3/outfitter-frontend)
 
-🐊 A hunting guide service app that provides information about hunting services provided by the company
+🐊  A hunting guide service app that provides information about hunting services provided by the company
 
 I Love IPA [Demo](https://wonderful-lamarr-3ee816.netlify.app/) | [Front end Repo](https://github.com/kurwitz3/I-Love-Ipa-Frontend)
 
-🍺 An IPA app that allows a user to review and find different IPA’s from breweries around the country.
+🍺   An IPA app that allows a user to review and find different IPA’s from breweries around the country.
 
 
