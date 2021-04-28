@@ -1,7 +1,7 @@
 ### Hi there! I'm Richard! 👋
 ***
 
-I'm a FlatIron School graduate who has experience in Ruby on Rails and JavaScript based programming. A former certified welder making a career change and bringing the same dedication and strong work ethics to job performance and appyling it to coding. With relentless positivity and strong teamwork skills, I will make the perfect canidate to work in any programming environment.
+I'm a FlatIron School graduate who has experienced in Ruby on Rails and JavaScript based programming. A former certified welder making a career change and bringing the same dedication and strong work ethics to job performance and appyling it to coding. With relentless positivity and strong teamwork skills, I will make the perfect canidate to work in any programming environment.
 
 ### Projects 📁
 ***
