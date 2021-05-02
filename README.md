@@ -16,7 +16,8 @@ I'm a FlatIron School graduate who has experience in Ruby on Rails and JavaScrip
 
 ### Get In Touch 📬
 ***
-[LinkedIn](https://www.linkedin.com/in/richard-kurwitz/) Twitter: @RKurwitz
+[LinkedIn](https://www.linkedin.com/in/richard-kurwitz/) 
+Twitter: @RKurwitz
 
 ### Skills 💻
 ***
